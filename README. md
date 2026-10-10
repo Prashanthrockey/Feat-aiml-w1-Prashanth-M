@@ -1,0 +1,39 @@
+AI/ML Week 1: Foundation & Data Analysis
+
+Author: Prashanth M
+Branch: feat/aiml-w1-prashanth-m
+Status: Completed
+
+
+
+Overview
+
+This repository contains the completed hands-on tasks, source code, data processing pipelines, and visual deliverables for Week 1 Foundation covering NumPy, Pandas, Data Cleaning, Exploratory Data Analysis (EDA), and Data Visualization.
+
+Daily Breakdown & Deliverables
+
+Day 1: NumPy Fundamentals
+* Objective: Environment setup, n-dimensional array creation (1D, 2D, 3D), vectorization, broadcasting, and statistical metrics on real CSV dataset.
+* Code: day1_numpy/day1_numpy_fundamentals.ipynb
+* Commit Message: feat: numpy fundamentals - array ops and statistics
+
+Day 2: Pandas for Data Manipulation
+* Objective: Tabular data inspection (.shape, .dtypes, .head(10)), operations (filter, groupby, merge, pivot_table), and export to CSV and Parquet.
+* Code: day2_pandas/day2_pandas_manipulation.ipynb
+* Commit Message: feat: pandas data manipulation - filter/groupby/merge
+
+Day 3: Data Loading, Cleaning & Inspection
+* Objective: Handling missing values, schema verification, data type casting, and data validation routines.
+* Code: day3_cleaning/day3_loading_and_cleaning.ipynb
+* Commit Message: feat: data cleaning and inspection pipeline
+
+Day 4: Exploratory Data Analysis (EDA)
+* Objective: Summary statistics (describe, info, isnull), numeric distribution plots, correlation matrix, top-10 category counts, and a 200-word findings narrative.
+* Code: day4_eda/day4_eda_analysis.ipynb
+* Deliverable: 5 observations documented and 200-word narrative included in day4_eda/eda_narrative.md.
+* Commit Message: feat: eda - distributions, correlations, narrative
+
+Day 5: Data Visualisation — Matplotlib & Seaborn
+* Objective: Advanced statistical plotting, multi-variable correlation heatmaps, trend analysis, and distribution visual reporting.
+* Code: day5_viz/day5_data_visualization.ipynb
+* Commit Message: feat: data visualization with matplotlib and seaborn
